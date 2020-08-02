@@ -1,11 +1,11 @@
 # Holaa 👋🏻
 
-<img src="/images/landingimage.png" />
+<img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/landingimage.png" />
 
 <h1> Revisa lo que he hecho 👨🏻‍💻</h1>
 
  <p>
-  <img width="100" height="100" align='left'src="images/react.gif" >
+  <img width="100" height="100" align='left'src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif" >
 </p>
  
 ### Hatsu🩸 (En desarrollo actualmente)
@@ -16,7 +16,7 @@ Listado de APIs públicas, además, te da la posibilidad de obtener alguna de ma
 ---
 
  <p>
-  <img width="100" height="100" align='left'src="images/vue.gif" >
+  <img width="100" height="100" align='left'src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vue.gif" >
 </p>
  
 ### Choisir 🎴
@@ -27,7 +27,7 @@ Listado de APIs públicas, además, te da la posibilidad de obtener alguna de ma
 ---
 
  <p>
-  <img width="100" height="100" align='left'src="images/react.gif" >
+  <img width="100" height="100" align='left'src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif" >
 </p>
  
 ### ROMPageReact 🎮
@@ -38,7 +38,7 @@ Necesitaba una forma de poder ver contenido de un juego con el que pasaba el tie
 ---
 
  <p>
-  <img width="100" height="100" align='left'src="images/vue.gif" >
+  <img width="100" height="100" align='left'src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vue.gif" >
 </p>
  
 ### notReddit 🔥
@@ -49,7 +49,7 @@ Poder ver diferentes subreddits y posteos, ordenarlos según categorías, defini
 ---
 
  <p>
-  <img width="100" height="100" align='left'src="images/react.gif" >
+  <img width="100" height="100" align='left'src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif" >
 </p>
  
 ### Clima React App 🌤
@@ -62,7 +62,7 @@ Proyecto que utiliza la API de OpenWeatherMap para ver temperaturas de distintas
 # ¿Qué cosas uso?🤔
 
 <p>
-  <img src="images/javascript.gif" width="100"><img src="images/react.gif" width="100"><img src="images/vue.gif" width="100"><img src="images/github.gif" width="100"><img src="images/vscode.gif" width="100"><img src="images/firebase.gif" width="100">
+  <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/javascript.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vue.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/github.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vscode.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/firebase.gif" width="100">
 </p>
 
 # Revisa mis demás Repos ! 👨🏻‍💻
