@@ -62,7 +62,8 @@ Proyecto que utiliza la API de OpenWeatherMap para ver temperaturas de distintas
 # ¿Qué cosas uso?🤔
 
 <p>
-  <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/javascript.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vue.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/github.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vscode.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/firebase.gif" width="100">
+  <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/javascript.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vue.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/github.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vscode.gif" width="100">
+  <!-- <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/firebase.gif" width="100"> -->
 </p>
 
 # Revisa mis otros Repos ! 👨🏻‍💻
