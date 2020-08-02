@@ -1,6 +1,6 @@
 # Holaa 👋🏻
 
-<img src="images/landingimage.png" />
+<img src="/images/landingimage.png" />
 
 <h1> Revisa lo que he hecho 👨🏻‍💻</h1>
 
