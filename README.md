@@ -65,15 +65,15 @@ Proyecto que utiliza la API de OpenWeatherMap para ver temperaturas de distintas
   <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/javascript.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vue.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/github.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vscode.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/firebase.gif" width="100">
 </p>
 
-# Revisa mis demás Repos ! 👨🏻‍💻
+# Revisa mis otros Repos ! 👨🏻‍💻
 
-<a href="https://github.com/StewartGF?tab=repositories" style="font-size:24px">Ver todos los repositorios</a>
+### <a href="https://github.com/StewartGF?tab=repositories" >Ver todos los repositorios</a>
 
-# Contáctame ! 🧙🏻‍♂️
+# Conversemos! 🧙🏻‍♂️
 
-<a href="https://www.linkedin.com/in/stewart-granger-flores/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/linkedin.png" />
 <a href="mailto:stewart.grngrf@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/gmail.png" />
+ <img  alt="Gmail" width="130" hight="100" src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/gmail.png" />
 </a>
+<a href="https://www.linkedin.com/in/stewart-granger-flores/">
+  <img  alt="Linkedin" width="150" hight="100" src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/linkedin.png" />
 </br>
