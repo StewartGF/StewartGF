@@ -8,7 +8,7 @@
   <img width="100" height="100" align='left'src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif" >
 </p>
  
-### Hatsu🩸 (En desarrollo actualmente)
+### Hatsū 🎴 (En desarrollo actualmente)
 
 Listado de APIs públicas, además, te da la posibilidad de obtener alguna de manera random para poder comenzar tu próximo proyecto 😋<br>
 <a href="https://github.com/StewartGF/hatsu" target="_blank">Ver Página</a> <strong>~</strong> <a href="https://github.com/StewartGF/hatsu" target="_blank" >Ver Repo</a>
