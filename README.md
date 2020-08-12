@@ -10,7 +10,7 @@
  
 ### Hatsu🎴 (En desarrollo actualmente)
 
-Listado de APIs públicas, además, te da la posibilidad de obtener alguna de manera random para poder comenzar tu próximo proyecto 😋<br>
+Listado de APIs públicas, junto con la posibilidad de agregar proyectos que hayas desarrollado con alguna de estas APIs y mostrar las tecnologías que has usado 😋<br>
 <a href="http://hatsu-dev.netlify.com/" target="_blank">Ver Página</a> <strong>~</strong> <a href="https://github.com/StewartGF/hatsu" target="_blank" >Ver Repo</a>
 
 ---
@@ -63,7 +63,7 @@ Proyecto que utiliza la API de OpenWeatherMap para ver temperaturas de distintas
 
 <p>
   <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/javascript.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vue.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/github.gif" width="100"><img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/vscode.gif" width="100">
-  <!-- <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/firebase.gif" width="100"> -->
+  <img src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/firebase.gif" width="100">
 </p>
 
 # Revisa mis otros Repos ! 👨🏻‍💻
