@@ -8,7 +8,7 @@
   <img width="100" height="100" align='left'src="https://raw.githubusercontent.com/StewartGF/StewartGF/master/images/react.gif" >
 </p>
  
-### Hatsu🎴 (En desarrollo actualmente)
+### Hatsu🎴
 
 Listado de APIs públicas, junto con la posibilidad de agregar proyectos que hayas desarrollado con alguna de estas APIs y mostrar las tecnologías que has usado 😋<br>
 <a href="http://hatsu-dev.netlify.com/" target="_blank">Ver Página</a> <strong>~</strong> <a href="https://github.com/StewartGF/hatsu" target="_blank" >Ver Repo</a>
